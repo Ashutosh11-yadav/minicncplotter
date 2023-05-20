@@ -15,7 +15,8 @@ As result machine will draw image on paper.
 *Processing v3.3 - Used to open GCTRL.pde file based on Java
 *Inkscape v0.48.5 - Used to convert vector graphics to GCODE instruction files
 
-Software/Application Used
+
+# Code AND Library
 *CNC code for Arduino
 *GCTRL Processing code
 *AFMotor Library for Arduino
