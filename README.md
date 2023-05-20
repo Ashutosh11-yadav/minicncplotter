@@ -11,15 +11,15 @@ afterwards this G-code sends to controller and controller commands motors how to
 As result machine will draw image on paper.
 
 ## Software/Application Used
-#### Arduino IDE v1.6.3 - Used for programming the Arduino
-#### Processing v3.3 - Used to open GCTRL.pde file based on Java
-#### Inkscape v0.48.5 - Used to convert vector graphics to GCODE instruction files
+#### *Arduino IDE v1.6.3 - Used for programming the Arduino
+#### *Processing v3.3 - Used to open GCTRL.pde file based on Java
+#### *Inkscape v0.48.5 - Used to convert vector graphics to GCODE instruction files
 
 
 ## Code AND Library
-#### CNC code for Arduino
-#### GCTRL Processing code
-#### AFMotor Library for Arduino
-#### Makerboat GCODE Inkscape Extension
+#### *CNC code for Arduino
+#### *GCTRL Processing code
+#### *AFMotor Library for Arduino
+#### *Makerboat GCODE Inkscape Extension
 
 
