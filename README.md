@@ -1,5 +1,5 @@
-# minicncplotter
-Mini CNC Plotter
+# Mini CNC Plotter
+
 
 
 CNC plotter machine is basically a 2.5 axis CNC machine, it have two stepper motor on both X & Y axis and a servo motor at Z axis.
