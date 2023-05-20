@@ -10,13 +10,12 @@ Image will be converted to G-code with the help of special type of software.
 afterwards this G-code sends to controller and controller commands motors how to move.
 As result machine will draw image on paper.
 
-
-#Software/Application Used
+# Software/Application Used
 *Arduino IDE v1.6.3 - Used for programming the Arduino.
 *Processing v3.3 - Used to open GCTRL.pde file based on Java
 *Inkscape v0.48.5 - Used to convert vector graphics to GCODE instruction files
 
-#Code and Libraries Used
+Software/Application Used
 *CNC code for Arduino
 *GCTRL Processing code
 *AFMotor Library for Arduino
